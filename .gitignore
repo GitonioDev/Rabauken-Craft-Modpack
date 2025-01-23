@@ -1,0 +1,13 @@
+# Ignore all files by default
+*
+
+# Allow specific files and directories
+!.gitignore
+!mods/
+!mods/**
+!resourcepacks/
+!resourcepacks/**
+!shaderpacks/
+!shaderpacks/**
+!config/
+!config/bcc.json
